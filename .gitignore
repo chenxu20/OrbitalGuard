@@ -1,0 +1,14 @@
+.venv/
+__pycache__/
+.pytest_cache/
+artifacts/*
+!artifacts/.gitkeep
+data/*.csv
+data/*.xlsx
+data/*.zip
+.streamlit/secrets.toml
+.env
+.env.*
+.aws/
+.codex/
+.agents/
